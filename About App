@@ -1,0 +1,13 @@
+Flutter To-Do List App
+
+This Flutter-based To-Do List App provides a simple and efficient way to manage tasks. With this application, users can add, delete, and mark tasks as completed. The app also allows renaming the task list and toggling the visibility of completed tasks.
+
+Key Features:
+- Add New Tasks: Users can input new tasks through a dialog box.
+- Mark Tasks as Completed: Tasks can be marked as done by tapping on them, which applies a strikethrough effect.
+- Delete Tasks: Easily remove tasks by pressing the delete button.
+- Rename To-Do List: The app title can be updated via a dialog prompt.
+- Show/Hide Completed Tasks: Toggle between displaying or hiding completed tasks from the list.
+
+Technologies Used:
+- Flutter: The app is built using Flutter, providing a cross-platform solution for Android and iOS.
